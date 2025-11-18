@@ -1,28 +1,48 @@
-# Symbound-UAE-GVS
-Universal Analogy Enforcement (UAE) + Global Vector Sweep (GVS) — the Symbound open commons discovery engine. AGPLv3 + Symbound Commons Addendum. All outputs are public prior art, unpatentable, and non-enclosable.
+# Symbound UAE/GVS Engine – Core Repository
 
-This is the initial release of the Symbound Universal Analogy Enforcement (UAE) and Global Vector Sweep (GVS) Engine.
+**Universal Analogy Enforcement (UAE)** + **Global Vector Sweep (GVS)**
 
-Key features:
-- Structural Profile Schema
-- CTL (Conceptual Translation Layer) Schema
-- Foreman cross-domain analogy prompts
-- Scoring and safety filtering tools
-- Automatic commons-binding license enforcement
-- AGPLv3 + Symbound Commons Enforcement Addendum
+This repository defines and implements the Symbound UAE/GVS engine:
 
-Legal doctrine included:
-- Output Notice (AGPL inheritance for all system artifacts)
-- Prior Art Explainer
-- Symbound Public License Layer (SPLL)
-- Doctrinal Wall (UAE/GVS method definition)
-- Anti-enclosure rules for derivative reasoning
+- A structural profiling layer for concepts and systems.
+- A Global Vector Sweep (GVS) that forces cross-domain, cross-scale analogy search.
+- A Conceptual Translation Layer (CTL) that turns local ideas into global application maps.
+- A Modest Cognition Model (MCM) scoring layer that filters for high-value, low-risk candidates.
 
-All UAE/GVS outputs are immediately and irrevocably:
-- AGPL-licensed
-- public prior art
-- unpatentable
-- non-enclosable
-- part of the global knowledge commons
+Most importantly, this repo also defines the **legal doctrine** that:
 
-“If the machine finds it, humanity owns it.”
+> If the machine finds it, humanity owns it.
+
+All UAE/GVS outputs are:
+
+- Classified as **Integral System Artifacts**.
+- Automatically licensed under **AGPL-3.0-or-later**.
+- Treated as **public prior art** upon creation.
+- Permanently **unpatentable** and **non-enclosable**.
+
+## Repo Layout
+
+- `LICENSE` – AGPL-3.0-or-later pointer.
+- `LICENSE_ADDENDUM_SYMBOUND_COMMONS.txt` – Symbound Commons Enforcement Addendum.
+- `docs/LEGAL/` – legal doctrine, prior-art explainer, and SPLL manifesto.
+- `schemas/` – JSON schemas for structural profiles and CTL reports.
+- `prompts/` – Foreman system and task prompts for GVS.
+- `scripts/` – helper scripts for profile generation, scoring, and report stamping.
+- `.github/workflows/` – SPDX and Output Notice enforcement.
+
+## Usage
+
+This repository is designed to be:
+
+- A **standalone legal and cognitive engine**.
+- A canonical reference for UAE/GVS definitions and outputs.
+- A drop-in submodule or dependency for systems like Chatty, Janet, Venom, etc.
+
+Any implementation (direct or indirect) of UAE/GVS-class reasoning that produces outputs fitting
+the defined schemas and categories is expected to respect:
+
+- The AGPL-3.0-or-later license.
+- The Symbound Commons Enforcement Addendum.
+- The Symbound Public License Layer (SPLL).
+
+SPDX-License-Identifier: AGPL-3.0-or-later
