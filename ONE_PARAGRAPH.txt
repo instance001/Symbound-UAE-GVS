@@ -1,1 +1,1 @@
-UAE/GVS is a public, open, safe idea-expansion framework. You give it an idea; it shows you all places the idea touches. Humans make breakthroughs; the system removes blinders. All outputs are locked open forever. It is the digital agora—the public square of discovery.
+UAE/GVS is a public, open, safety-oriented idea-expansion framework. You give it an idea; it maps the places the idea may touch. Humans make breakthroughs; the system removes blinders. Outputs are intended to stay open under the commons doctrine. It is the digital agora—the public square of discovery.

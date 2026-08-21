@@ -1,4 +1,4 @@
-Symbound UAE/GVS is an open, commons-licensed reasoning framework that helps humans explore the full implication space of any idea.
+Symbound UAE/GVS is an open, commons-licensed reasoning framework that helps humans explore a broad implication space around an idea.
 
 It does not create new science, bypass safety, or operate autonomously. It maps:
 - an idea’s properties
@@ -6,12 +6,12 @@ It does not create new science, bypass safety, or operate autonomously. It maps:
 - analogous uses
 - overlaps and adjacent fields
 - blind spots the human may not know
-- safe, structured cross-domain vectors
+- bounded, structured cross-domain vectors
 
 Humans remain the source of novelty. The system removes friction and reveals more of the landscape.
 
 UAE/GVS is:
-- safe
+- safety-oriented
 - transparent
 - structured
 - bounded

@@ -2,14 +2,14 @@
 ## Universal Analogy Engine & Global Vector Sweep
 ### The Digital Agora Framework
 
-UAE/GVS expands ideas safely using structural and property-based mapping.
+UAE/GVS expands ideas through bounded structural and property-based mapping.
 
 ## The Digital Agora Principle
 A digital public square where anyone can bring an idea and receive structured cross-domain reasoning.
 
 ## Licensing
 AGPLv3 + Symbound Commons Output Addendum.
-All outputs are public prior art.
+Outputs are intended for commons publication and prior-art use under the project addendum.
 
 ## How It Works
 1. User provides idea

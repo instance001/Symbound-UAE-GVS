@@ -5,20 +5,22 @@
 This repository defines and implements the Symbound UAE/GVS engine:
 
 - A structural profiling layer for concepts and systems.
-- A Global Vector Sweep (GVS) that forces cross-domain, cross-scale analogy search.
+- A Global Vector Sweep (GVS) that requires cross-domain, cross-scale analogy search.
 - A Conceptual Translation Layer (CTL) that turns local ideas into global application maps.
 - A Modest Cognition Model (MCM) scoring layer that filters for high-value, low-risk candidates.
+
+Terminology and legal boundary: UAE/GVS is a structured reasoning and commons-publication framework, not an autonomous discovery agent, legal oracle, or safety guarantee. Terms such as engine, sweep, machine, and cognitive describe bounded software/process roles. The commons language states project doctrine and license intent; enforceability and patent effect can depend on jurisdiction and facts.
 
 Most importantly, this repo also defines the **legal doctrine** that:
 
 > If the machine finds it, humanity owns it.
 
-All UAE/GVS outputs are:
+The project treats UAE/GVS outputs as:
 
 - Classified as **Integral System Artifacts**.
-- Automatically licensed under **AGPL-3.0-or-later**.
-- Treated as **public prior art** upon creation.
-- Permanently **unpatentable** and **non-enclosable**.
+- Licensed under **AGPL-3.0-or-later** when produced by this licensed system.
+- Intended for public prior-art disclosure upon publication.
+- Intended to resist patent enclosure and proprietary lockup to the maximum lawful extent.
 
 ## Repo Layout
 
@@ -34,7 +36,7 @@ All UAE/GVS outputs are:
 
 This repository is designed to be:
 
-- A **standalone legal and cognitive engine**.
+- A **standalone commons-governed reasoning engine**.
 - A canonical reference for UAE/GVS definitions and outputs.
 - A drop-in submodule or dependency for systems like Chatty, Janet, Venom, etc.
 
